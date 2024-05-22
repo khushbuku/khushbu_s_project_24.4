@@ -14,7 +14,7 @@ datagroup: khushbu_s_project_default_datagroup {
 
 persist_with: khushbu_s_project_default_datagroup
 
-explore: derived_flights {}
+#explore: derived_flights {}
 
 explore: airports {}
 
